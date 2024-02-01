@@ -6,7 +6,7 @@ Este projeto visa analisar dados dos Ifood identificar tendências no comportame
 
 ## 💼 Entendimento do Negócio
 
-[Descreva o contexto e a importância do seu projeto. Por exemplo, "No contexto atual de crescente volume de dados, entender padrões complexos em comportamentos de consumidores é crucial para estratégias de marketing eficazes."]
+No contextual atual de crescente voluma de pedidos de comida por aplicativo, entender padrões de consumo no aplicativo do Ifood é crucial para possíveis estratégias de marketing eficazes. Dessa forma, é interessante avaliar como os clientes se comportam dentro da plataforma para extrair insights valiosos.
 
 **Tipos de Análise Realizados:**
 - Tendências de Mercado
